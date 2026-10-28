@@ -23,7 +23,7 @@ Meu objetivo é transformar perguntas de negócio em análises claras, dados org
 | **Databricks e Data Science** | Aprofundamento em processamento e exploração de dados. |
 | **IA e Microsoft Foundry** | Fundamentos de IA, IA generativa, RAG e validação de resultados. |
 
-**Em preparação:** AZ-104, DP-700 e AI-901. Certificações serão listadas como obtidas somente após a conclusão.
+**Em preparação:** AZ-104, AZ-305, DP-700 e AI-901. Certificações serão listadas como obtidas somente após a conclusão.
 
 ## Projetos de portfólio
 
